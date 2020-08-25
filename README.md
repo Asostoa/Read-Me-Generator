@@ -13,7 +13,7 @@ In this project we create an app that creates a MarkDown Read Me File.
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-        Clone and Run index.js in your terminal
+            Clone and Run index.js in your terminal
 ## Usage
 After Running the Node, the App will present the user with some Questions wich we will append to the Read-me File.
 ## Licence
@@ -23,7 +23,7 @@ Finishing Adding the Badges ass desire.
 ## Test
 Runing
 ## Repository
-- [Project Repo](Read-Me-Generator)
+- [Project Repo](https://api.github.com/users/asostoa)
 ## GitHub
 ![Image of me](https://avatars1.githubusercontent.com/u/65316520?v=4)
 - null
