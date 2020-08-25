@@ -19,7 +19,7 @@ After Running the Node, the App will present the user with some Questions wich w
 ## Licence
 undefined
 ## Contributors
-Finishing Adding the Badges ass desire. 
+Finishing Adding the Badges ass desire.
 ## Test
 Runing
 ## Repository

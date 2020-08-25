@@ -24,7 +24,7 @@ ${data.contributing}
 ## Test
 ${data.test}
 ## Repository
-- [Project Repo](${data.repo})
+- [Project Repo](https://api.github.com/users/${data.username})
 ## GitHub
 ![Image of me](${githubInfo.githubImage})
 - ${githubInfo.name}
