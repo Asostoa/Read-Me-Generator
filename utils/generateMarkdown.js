@@ -3,6 +3,8 @@ function generateMarkdown(data, githubInfo) {
 # **${data.title}**
 ![Badge](https://img.shields.io/github/license/${data.username}/${data.repo})
 ![BadgeGithub](https://img.shields.io/github/followers/${data.username}?style=social)
+![BadgeSize](https://img.shields.io/github/repo-size/${data.username}/${data.repo})
+![BadgeSize](https://img.shields.io/github/v/release/${data.username}/${data.repo})
 ## Description 
 ${data.description}
 ![ScreenShot](${data.screenshot})
@@ -20,7 +22,7 @@ ${data.usage}
 ## License
 ${data.license}
 ## Repository
-- [Project Repo](https://api.github.com/users/${data.username})
+- [Project Repo](https://api.github.com/users/${data.repo})
 ## GitHub
 ![Image of me](${githubInfo.githubImage})
 ##
