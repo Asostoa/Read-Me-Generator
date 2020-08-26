@@ -65,8 +65,3 @@ inquirer
 
 });
 
-function init() {
-
-}
-
-init();

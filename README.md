@@ -19,7 +19,7 @@ Suitable for all applications in GitHub. The node file will create a read-me fil
 ## Usage
 After running the node file, the user is prompt with different questions about the repo file. Once we obtain the users GitHub username we execute an Axios function to the GitHub API to retrieve all the data from the user store in Github. 
 ## License
-undefined
+MIT
 ## Repository
 - [Project Repo](https://api.github.com/users/Read-Me-Generator)
 ## GitHub

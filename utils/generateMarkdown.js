@@ -20,9 +20,9 @@ ${data.installation}
 ## Usage
 ${data.usage}
 ## License
-${data.license}
+![Badge](https://img.shields.io/github/license/${data.username}/${data.repo})
 ## Repository
-- [Project Repo](https://api.github.com/users/${data.repo})
+- [Project Repo](https://github.com/${data.username}/${data.repo})
 ## GitHub
 ![Image of me](${githubInfo.githubImage})
 ##
