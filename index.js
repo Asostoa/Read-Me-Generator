@@ -22,17 +22,7 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "Please provide the project usage"
-    },
-    {
-        type: "input",
-        name: "contributing",
-        message: "Please provide the contributing parties"
-    },
-    {
-        type: "input",
-        name: "test",
-        message: "Please provide the project tests"
+        message: "Please explain how the project works?"
     },
     {
         type: "input",
@@ -44,6 +34,11 @@ const questions = [
         name: "repo",
         message: "What is your repo name?"
     },
+    {
+        type: "input",
+        name: "screenshot",
+        message: "Name of the screenshot image file (Ex;logo.png)"
+    }
 ];
 
 inquirer
